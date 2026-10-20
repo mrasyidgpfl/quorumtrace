@@ -9,6 +9,7 @@ coverage.out
 # Local configuration
 .env
 .env.*
+!.env.example
 
 # Local node storage
-data/
+/data/
