@@ -1,0 +1,14 @@
+# macOS
+.DS_Store
+
+# Build artifacts
+bin/
+*.test
+coverage.out
+
+# Local configuration
+.env
+.env.*
+
+# Local node storage
+data/
